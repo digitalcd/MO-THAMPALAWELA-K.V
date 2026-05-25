@@ -1,0 +1,17 @@
+{
+  "name": "Mo/Thampalawela K.V. School",
+  "short_name": "Thampalawela KV",
+  "description": "Official website of Mo/Thampalawela K.V. School",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002366",
+  "icons": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663626262975/EcoTZJc5va3xT2s5HSYQv9/hero-school-building-cjQdANQY6j2kbXCmQLQzbH.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
