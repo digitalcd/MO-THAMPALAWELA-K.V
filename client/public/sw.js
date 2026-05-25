@@ -1,4 +1,4 @@
-const CACHE_NAME = 'thampalawela-kv-school-v1';
+const CACHE_NAME = 'thampalawela-kv-v1';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
